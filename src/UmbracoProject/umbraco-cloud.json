@@ -1,1 +1,14 @@
-{}
+{
+  "Deploy": {
+    "Project": {
+      "Workspaces": []
+    },
+    "Settings": {}
+  },
+  "Identity": {
+    "ClientId": "0297c0f6-83ad-4481-9ae2-07a3f5475333",
+    "ClientSecret": "Q5~T526ixOHlj47lg7Mu7_.zN1fK.7ua.9",
+    "EnvironmentId": "a2308b79-4bd5-445f-b6e8-2c4c2a990739",
+    "LocalLoginRedirectUri": "https://redirect.identity.umbraco.com"
+  }
+}

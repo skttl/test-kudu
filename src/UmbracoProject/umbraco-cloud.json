@@ -1,7 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "ecreo test kudu hacks",
+      "Alias": "ecreo-test-kudu-hacks",
+      "Id": "60965f30-12c5-4d9e-8252-79c450051bc3",
+      "Workspaces": [
+        {
+          "Id": "a2308b79-4bd5-445f-b6e8-2c4c2a990739",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://ecreo-test-kudu-hacks.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },

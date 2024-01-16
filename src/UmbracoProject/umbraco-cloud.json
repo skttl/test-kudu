@@ -6,12 +6,6 @@
       "Id": "60965f30-12c5-4d9e-8252-79c450051bc3",
       "Workspaces": [
         {
-          "Id": "c0476f41-3ec8-469b-9210-3b6132b5d3ed",
-          "Name": "Development",
-          "Type": "development",
-          "Url": "https://dev-ecreo-test-kudu-hacks.euwest01.umbraco.io"
-        },
-        {
           "Id": "a2308b79-4bd5-445f-b6e8-2c4c2a990739",
           "Name": "Live",
           "Type": "live",
